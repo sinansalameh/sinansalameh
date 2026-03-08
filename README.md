@@ -19,7 +19,7 @@ Features:
 * Automation logging
 
 🔗 Project Repository
-https://github.com/sinansalameh/task-workflow-manager
+https://github.com/sinansalameh/csharp-task-workflow-manager
 
 ---
 
