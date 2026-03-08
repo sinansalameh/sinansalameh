@@ -1,16 +1,45 @@
-## Hi there 👋
+# Hi 👋 I'm Sinan Salameh
 
-<!--
-**sinansalameh/sinansalameh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Software Development Student
+📍 Interested in backend development and workflow automation
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Projects
+
+### Task Workflow Manager
+
+A console application built in C# that manages task workflows with automation triggers.
+
+Features:
+
+* Task creation and management
+* Workflow states (Pending, InProgress, Completed)
+* JSON persistence
+* Automation logging
+
+🔗 Project Repository
+https://github.com/sinansalameh/task-workflow-manager
+
+---
+
+## 🛠️ Technologies
+
+* C#
+* .NET
+* JSON
+* Git
+
+---
+
+## 📚 Currently Learning
+
+* .NET development
+* Clean architecture
+* Software design patterns
+
+---
+
+## 📫 Contact
+
+GitHub: https://github.com/sinansalameh
